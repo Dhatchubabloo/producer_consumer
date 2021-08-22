@@ -1,0 +1,18 @@
+The java.lang.Object class is
+ the root of the class hierarchy.
+ Every class has Object as a superclass. 
+All objects, including arrays, 
+implement the methods of this class.
+ If a Class does not extend 
+any other class then it is direct
+ child class of Object and if extends
+ other class then it is an indirectly derived. 
+Therefore the Object class methods are 
+available to all Java classes.
+ Hence Object class acts as a root
+ of inheritance hierarchy in any Java Program.
+And it has various method such as,
+toString(),hashcode(),equals(),getClass() 
+these are all the main methods of the Object class.
+So all classes must have these methods because
+ Object is a super class for all classes.
