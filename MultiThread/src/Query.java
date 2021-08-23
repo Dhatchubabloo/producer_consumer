@@ -6,7 +6,7 @@ import java.sql.SQLException;
 public class Query {
     String url = "jdbc:mysql://localhost:3306/textfile";
     String username = "root";
-    String password = "password";
+    String password = "Root@123";
     Connection connection = null;
 
     public Connection settings() {
